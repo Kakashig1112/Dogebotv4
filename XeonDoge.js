@@ -1,4 +1,4 @@
-//-----(Doge Bot by Xeon Bot Inc.)-----\\
+//-----(zero two by kakashi.)-----\\
 //-----(Youtube Channel: Xeon)-----\\
 //-----(Whatsapp number: +916909137213)-----\\
 //-----(Wanna reupload??? Can, but give proper credit)----\\
