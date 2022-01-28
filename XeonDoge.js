@@ -575,7 +575,7 @@ const ftex = {
                 },
 	 message: { 
 		"extendedTextMessage": {
-                 "text": `*${botName} by Xeon Bot Inc.*`,
+                 "text": `*${botName} by 💖Dream💖guy💖.*`,
                  "title": `_${botName}_`,
                  'jpegThumbnail': gambarrr
                         }
